@@ -1,0 +1,30 @@
+#button_web {
+    -fx-background-color: White;
+    -fx-text-fill: #b5b5b5;
+}
+
+#button_web:hover {
+    -fx-background-color: White;
+    -fx-text-fill: #838383;
+}
+#submit-button{
+    -fx-background-color:rgb(5,186,251);
+}
+.text-field{
+    -fx-background-insets: 0;
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.text-field .content {
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.text-field:focused {
+    -fx-background-color: transparent, white, transparent, white;
+}
+.label{
+}
+/*
+.check-box {
+    -fx-text-fill: #b5b5b5;
+}*/
